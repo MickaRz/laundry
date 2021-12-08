@@ -1,0 +1,2 @@
+# laundry
+node_moduls
